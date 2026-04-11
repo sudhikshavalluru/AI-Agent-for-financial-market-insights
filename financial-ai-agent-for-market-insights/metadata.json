@@ -1,0 +1,6 @@
+
+{
+  "name": "Financial AI Agent for Market Insights",
+  "description": "A production-grade financial intelligence platform featuring real-time news NER, earnings report analysis, and predictive stock sentiment using advanced NLP.",
+  "requestFramePermissions": []
+}
